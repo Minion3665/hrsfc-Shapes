@@ -1,0 +1,7 @@
+/home/minion/RiderProjects/Shapes/Shapes/bin/Debug/Shapes.exe
+/home/minion/RiderProjects/Shapes/Shapes/bin/Debug/Shapes.pdb
+/home/minion/RiderProjects/Shapes/Shapes/obj/Debug/Shapes.csproj.AssemblyReference.cache
+/home/minion/RiderProjects/Shapes/Shapes/obj/Debug/Shapes.csproj.SuggestedBindingRedirects.cache
+/home/minion/RiderProjects/Shapes/Shapes/obj/Debug/Shapes.csproj.CoreCompileInputs.cache
+/home/minion/RiderProjects/Shapes/Shapes/obj/Debug/Shapes.exe
+/home/minion/RiderProjects/Shapes/Shapes/obj/Debug/Shapes.pdb
